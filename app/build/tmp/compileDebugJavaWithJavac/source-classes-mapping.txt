@@ -1,0 +1,17 @@
+com/example/lab3/BuildConfig.java
+ com.example.lab3.BuildConfig
+com/example/lab3/Fail.java
+ com.example.lab3.Fail
+com/example/lab3/MainActivity.java
+ com.example.lab3.MainActivity
+com/example/lab3/Database.java
+ com.example.lab3.Database
+com/example/lab3/SignUp.java
+ com.example.lab3.SignUp
+com/example/lab3/Success.java
+ com.example.lab3.Success
+ com.example.lab3.Success$1
+ com.example.lab3.Success$1$1
+ com.example.lab3.Success$MyTask
+ com.example.lab3.Success$MyTask$1
+ com.example.lab3.Success$MyTask$2
